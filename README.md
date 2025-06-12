@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a interactive storytelling website<br>👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning Golang, C
+🔭 I’m currently working on building API's in SpringBoot using Azure Cosmosdb👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning JAVA(SpringBoot)
 
 
 ## 🌐 Socials:
